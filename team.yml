@@ -257,7 +257,7 @@ members:
   - name: Jennifer Kim
     github:
       username: jennkimerson
-      role: admin
+      role: member
     mailgun:
       email: jenkim@bu.edu
       routes:
@@ -297,7 +297,7 @@ members:
   - name: Jordan Nichols
     github:
       username: jordanenichols
-      role: admin
+      role: member
     mailgun:
       email: jordanen@bu.edu
       routes:
@@ -565,6 +565,15 @@ members:
       role: member
     mailgun:
       email: jiweiqi@bu.edu
+      routes:
+        - contact@bostonhacks.io
+    status: active
+  - name: Daniel Galvin
+    github:
+      username: dan-galvin
+      role: member
+    mailgun:
+      email: dgalvin@bu.edu
       routes:
         - contact@bostonhacks.io
     status: active
